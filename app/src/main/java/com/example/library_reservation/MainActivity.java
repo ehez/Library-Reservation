@@ -15,5 +15,5 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //Erick H
-    // Erick G
+    // Bruno M
 }
